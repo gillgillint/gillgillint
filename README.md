@@ -4,7 +4,7 @@ Hi 👋 My name is Kantapong Intraboonsom
 Web Developer
 -------------
 
-I'm Kantapong a full-stack developer with 1 year of experience. I am interested in technology so I work in this field. starting from studying online course and I determined to career as a Frontend or Backend developer
+I'm Kantapong a full-stack developer with 1 year of experience writing software, and develops web applications with JavaScript I am determined to career as a Frontend or Backend developer
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [MyPortfolio](http://www.kantapong-int.com/)
